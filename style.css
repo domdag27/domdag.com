@@ -1,0 +1,16 @@
+/*
+Theme Name: domdag
+Theme URI: https://domdag.com
+Author: Domenick D'Agostino
+Author URI: https://domdag.com
+Description: Dark, animated one-page portfolio for Domenick D'Agostino — UI Developer / Front-End Engineer. Vite + Tailwind CSS v4 + GSAP.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: domdag
+*/
+
+/* Compiled styles are built by Vite into dist/ and enqueued from inc/assets.php.
+   This file exists only for the WordPress theme header. */
